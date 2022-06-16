@@ -1,6 +1,6 @@
 {
   "name": "ui-demo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -17,14 +17,13 @@
   "keywords": [
     "dumi"
   ],
-  "authors": [
-  ],
+  "authors": [],
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "antd-mobile-a": "0.0.1",
+    "antd-mobile-a": "0.0.2",
     "classnames": "^2.2.6"
   }
 }
