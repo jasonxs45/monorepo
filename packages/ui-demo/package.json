@@ -24,7 +24,7 @@
     "access": "public"
   },
   "dependencies": {
-    "antd-mobile": "2.3.3",
+    "antd-mobile-a": "0.0.1",
     "classnames": "^2.2.6"
   }
 }
