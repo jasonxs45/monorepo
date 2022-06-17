@@ -23,7 +23,7 @@
     "access": "public"
   },
   "dependencies": {
-    "xsmoba": "^0.0.2",
+    "xsmoba": "^0.0.3",
     "classnames": "^2.2.6"
   }
 }
