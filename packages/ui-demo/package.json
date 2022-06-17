@@ -1,6 +1,6 @@
 {
   "name": "xsui",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "classnames": "^2.2.6",
-    "xsmoba": "^0.0.4"
+    "xsmoba": "0.0.5"
   }
 }
